@@ -50,6 +50,7 @@ Now simply complete the post-activity survey below and you’ve finished a whole
 Please complete this post-module survey before you move on to another module.
 Click finish when you’re done :)
 
-<script id="ss-embed-734054">(function(d,w){var s,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=627146&c=734054';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script>
+<iframe id="ss-embed-frame-734054" onload="window.scrollTo(0, document.getElementById('ss-embed-frame-734054').offsetTop);" src="https://www.smartsurvey.co.uk/s/HLWGD/" style="width:100%;height:400px;border:0px;padding-bottom:4px;" frameborder="0"><a href="https://www.smartsurvey.co.uk/s/HLWGD/">Please take our survey</a></iframe>
+
 
 --- /task ---
