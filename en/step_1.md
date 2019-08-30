@@ -11,7 +11,7 @@ There are 3 sections in the Plenary:
 
 Please play the Skills Sorting game again. Click on the green flag to begin. Don't forget to tick the activity off once you have completed it.
 
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/80628358/?autostart=false" frameborder="0" scrolling="no"></iframe>
+If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271674) to log in and play the Skills Sorting Game . If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting Game.
 
 --- /task ---
 
