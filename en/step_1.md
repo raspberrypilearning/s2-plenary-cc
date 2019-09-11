@@ -52,6 +52,13 @@ Click finish when you’re done :)
 
 <iframe id="ss-embed-frame-734054" onload="window.scrollTo(0, document.getElementById('ss-embed-frame-734054').offsetTop);" src="https://www.smartsurvey.co.uk/s/HLWGD/" style="width:100%;height:400px;border:0px;padding-bottom:4px;" frameborder="0"><a href="https://www.smartsurvey.co.uk/s/HLWGD/">Please take our survey</a></iframe>
 
+--- /task ---
 
+--- task ---
+
+Click on the 'Click me' button to try a new module:
+
+<a href="https://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
 
 --- /task ---
