@@ -50,7 +50,7 @@ Now simply complete the post-activity survey below and you’ve finished a whole
 Please complete this post-module survey before you move on to another module.
 Click finish when you’re done :)
 
-<script id="ss-embed-755468">(function(d,w){var s,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=643443&c=755468';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script><div>Create your own online surveys with <a href="https://www.smartsurvey.co.uk">SmartSurvey</a>.</div>
+<iframe src="https://www.smartsurvey.co.uk/s/B813T/" style="width:100%;height:400px;border:0px;padding-bottom:4px;" frameborder="0"></iframe>
 
 --- /task ---
 
