@@ -1,17 +1,19 @@
 ## Plenary
 
 There are 3 sections in the Plenary:
-1. Game: Skills Sorting (again)
+1. Game: Skills sorting (again)
 2. Postcard
 3. Post-Module Survey
 
-### 1. Game: Skills Sorting
+### 1. Game: Skills sorting
 
 --- task ---
 
-Please play the Skills Sorting game again. Click on the green flag to begin. Don't forget to tick the activity off once you have completed it.
+You need to play Skills sorting game again so you can reflect on your progress. Don't forget to tick the activity off once you have completed it.
 
-If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271674) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting Game.
+Click the [I’ve got a Scratch account](https://scratch.mit.edu/projects/482235800){:target="_blank"} link to _log in_ and play the Skills sorting game. 
+
+If you don’t have a Scratch account, you can still play the Skills sorting game by clicking the [I don't have a Scratch account](https://scratch.mit.edu/projects/326271944){:target="_blank"} link.
 
 --- /task ---
 
