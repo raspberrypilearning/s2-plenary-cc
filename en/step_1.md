@@ -52,7 +52,7 @@ Now simply complete the post-activity survey below and you’ve finished a whole
 Please complete this post-module survey before you move on to another module.
 Click finish when you’re done :)
 
-http://ncce.io/iClub-post
+[http://ncce.io/iClub-post](http://ncce.io/iClub-post)
 
 --- /task ---
 
