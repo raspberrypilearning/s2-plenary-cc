@@ -50,8 +50,7 @@ Now simply complete the post-activity survey below and you’ve finished a whole
 Please complete this post-module survey before you move on to another module.
 Click finish when you’re done :)
 
-<iframe id="ss-embed-frame-734054" onload="window.scrollTo(0, document.getElementById('ss-embed-frame-734054').offsetTop);" src="https://www.smartsurvey.co.uk/s/HLWGD/" style="width:100%;height:400px;border:0px;padding-bottom:4px;" frameborder="0"><a href="https://www.smartsurvey.co.uk/s/HLWGD/">Please take our survey</a></iframe>
-
+http://ncce.io/iClub-post
 
 
 --- /task ---
